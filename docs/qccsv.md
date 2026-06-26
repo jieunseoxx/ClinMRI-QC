@@ -86,7 +86,6 @@ Sanity checks on image geometry and intensity, independent of the model.
 
 ## 6. Field of view QC 
 
-Sanity checks on image geometry and intensity, independent of the model.
 
 | Column | Description |
 |--------|-------------|
